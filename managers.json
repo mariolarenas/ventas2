@@ -1,0 +1,28 @@
+{
+  "managers": [
+    {
+      "id": 101,
+      "nombre": "Miguel Perez"
+    },
+    {
+      "id": 102,
+      "nombre": "Agustin Gonzalez"
+    },
+    {
+      "id": 103,
+      "nombre": "Manuel Inostroza"
+    },
+    {
+      "id": 103,
+      "nombre": "Ramón Troncoso"
+    },
+    {
+      "id": 104,
+      "nombre": "Salvador Garmendia"
+    },
+    {
+      "id": 105,
+      "nombre": "Daniel Cox"
+    }
+  ]
+}

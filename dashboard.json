@@ -1,0 +1,64 @@
+{
+  "kpis": [
+    {
+      "venta_mensual": {
+        "valor": 450,
+        "meta": 1500
+      }
+    },
+    {
+      "venta_anual": {
+        "valor": 7570,
+        "meta": 15000
+      }
+    }
+  ],
+  "ranking_vendedores": [
+    {
+      "id_vendedor": 2213,
+      "nombre": "Matias Matamala",
+      "monto": 7357213,
+      "unidades": 237
+    },
+    {
+      "id_vendedor": 2211,
+      "nombre": "Rosita Rosas",
+      "monto": 6980233,
+      "unidades": 221
+    },
+    {
+      "id_vendedor": 2145,
+      "nombre": "Daniel Davila",
+      "monto": 5553233,
+      "unidades": 189
+    },
+    {
+      "id_vendedor": 2536,
+      "nombre": "Boris Borquez",
+      "monto": 5123367,
+      "unidades": 182
+    }
+  ],
+  "ranking_productos": [
+    {
+      "cod_producto": "54321",
+      "poducto": "Placa Madre ASUS TX440",
+      "unidades": 137
+    },
+    {
+      "cod_producto": "54320",
+      "poducto": "Procesador Intel i3 E440",
+      "unidades": 122
+    },
+    {
+      "cod_producto": "54301",
+      "poducto": "SSD Western Digital 3 TB",
+      "unidades": 98
+    },
+    {
+      "cod_producto": "53433",
+      "poducto": "Corsair RAM 32 GB Dual TX",
+      "unidades": 95
+    }
+  ]
+}
